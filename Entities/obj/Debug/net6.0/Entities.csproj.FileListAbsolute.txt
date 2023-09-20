@@ -1,0 +1,12 @@
+C:\a\edgeupdatemanagement\src\EdgeDevicesUpdateManagement\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\a\edgeupdatemanagement\src\EdgeDevicesUpdateManagement\Entities\bin\Debug\net6.0\Entities.dll
+C:\a\edgeupdatemanagement\src\EdgeDevicesUpdateManagement\Entities\bin\Debug\net6.0\Entities.pdb
+C:\a\edgeupdatemanagement\src\EdgeDevicesUpdateManagement\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\a\edgeupdatemanagement\src\EdgeDevicesUpdateManagement\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\a\edgeupdatemanagement\src\EdgeDevicesUpdateManagement\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\a\edgeupdatemanagement\src\EdgeDevicesUpdateManagement\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\a\edgeupdatemanagement\src\EdgeDevicesUpdateManagement\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\a\edgeupdatemanagement\src\EdgeDevicesUpdateManagement\Entities\obj\Debug\net6.0\Entities.dll
+C:\a\edgeupdatemanagement\src\EdgeDevicesUpdateManagement\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\a\edgeupdatemanagement\src\EdgeDevicesUpdateManagement\Entities\obj\Debug\net6.0\Entities.pdb
+C:\a\edgeupdatemanagement\src\EdgeDevicesUpdateManagement\Entities\obj\Debug\net6.0\ref\Entities.dll

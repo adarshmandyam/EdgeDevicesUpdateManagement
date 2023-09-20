@@ -1,0 +1,12 @@
+C:\a\edgeupdatemanagement\src\EdgeDevicesUpdateManagement\SharedLibrary\bin\Debug\net6.0\SharedLibrary.deps.json
+C:\a\edgeupdatemanagement\src\EdgeDevicesUpdateManagement\SharedLibrary\bin\Debug\net6.0\SharedLibrary.dll
+C:\a\edgeupdatemanagement\src\EdgeDevicesUpdateManagement\SharedLibrary\bin\Debug\net6.0\SharedLibrary.pdb
+C:\a\edgeupdatemanagement\src\EdgeDevicesUpdateManagement\SharedLibrary\obj\Debug\net6.0\SharedLibrary.csproj.AssemblyReference.cache
+C:\a\edgeupdatemanagement\src\EdgeDevicesUpdateManagement\SharedLibrary\obj\Debug\net6.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\a\edgeupdatemanagement\src\EdgeDevicesUpdateManagement\SharedLibrary\obj\Debug\net6.0\SharedLibrary.AssemblyInfoInputs.cache
+C:\a\edgeupdatemanagement\src\EdgeDevicesUpdateManagement\SharedLibrary\obj\Debug\net6.0\SharedLibrary.AssemblyInfo.cs
+C:\a\edgeupdatemanagement\src\EdgeDevicesUpdateManagement\SharedLibrary\obj\Debug\net6.0\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\a\edgeupdatemanagement\src\EdgeDevicesUpdateManagement\SharedLibrary\obj\Debug\net6.0\SharedLibrary.dll
+C:\a\edgeupdatemanagement\src\EdgeDevicesUpdateManagement\SharedLibrary\obj\Debug\net6.0\refint\SharedLibrary.dll
+C:\a\edgeupdatemanagement\src\EdgeDevicesUpdateManagement\SharedLibrary\obj\Debug\net6.0\SharedLibrary.pdb
+C:\a\edgeupdatemanagement\src\EdgeDevicesUpdateManagement\SharedLibrary\obj\Debug\net6.0\ref\SharedLibrary.dll
