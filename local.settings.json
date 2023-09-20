@@ -1,0 +1,17 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AZURE_STORAGE_CONNECTION": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=eportaliotstorage;AccountKey=bDyosWNx1XJTUzHOdQ1v52ToYrKMI318ZPx0vHHjNLVR8D1sFoHES+AUrmRO2CbP19FLDyU3I5wO+AStlNhMvQ==\"\"",
+    "IoTHubConnectionString": "Endpoint=sb://ihsuprodblres029dednamespace.servicebus.windows.net/;SharedAccessKeyName=iothubowner;SharedAccessKey=+9Uxam+cYOi07X1jqUlaKfkbHbQfDpEMOu8w/kB9dd8=;EntityPath=iothub-ehub-adarshedge-25127807-97e7221a9a",
+    "SQLConnectionString": "Server=tcp:edgedevicetrackerserver.database.windows.net,1433;Initial Catalog=EdgeDevicesTrackerDB;Persist Security Info=False;User ID=edgedeviceadmin;Password=Kodiak4Me;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
+    "AzureSignalRConnectionString": "Endpoint=https://signalredge.service.signalr.net;AccessKey=RBFx2t7BT6dPTc0P9hHqGT22FmEod7NRM8XhatSaqC0=;Version=1.0;"
+  },
+  "Host": {
+    "LocalHttpPort": 7137,
+    "CORS": "*",
+    "CORSCredentials": false
+  }
+}

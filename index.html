@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Azure SignalR Serverless Sample</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/3.1.7/signalr.min.js"></script>
+    <script>
+        const connection = new signalR.HubConnectionBuilder()
+            .withUrl("http://localhost:7137/api")
+            .build();
+
+        connection.on("iotMessage", function (messageFromIoTDevice) {
+            document.getElementById("message").innerHTML = messageFromIoTDevice;
+        });
+
+        connection.onclose(() => console.log('disconnected'));
+        console.log('connecting...');
+        connection.start()
+            .catch(console.error);
+    </script>
+</head>
+<body>
+    <h1>Azure SignalR Serverless Sample</h1>
+    <div id="message"></div>
+</body>
+</html>
